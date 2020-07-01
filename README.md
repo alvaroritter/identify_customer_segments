@@ -1,5 +1,5 @@
 # identify_customer_segments
-Unsupervised Learning project of Udacity "Introduction to Machine Learning" NAnodegree
+Unsupervised Learning project of Udacity "Introduction to Machine Learning" Nanodegree
 
 # Installation
 This project requires Python 3.x and the following Python libraries installed:
